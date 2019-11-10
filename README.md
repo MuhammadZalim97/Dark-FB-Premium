@@ -4,7 +4,7 @@ $pkg install python2
 
 $pkg install git
 
-$git clone https://github.com/Dark-FB-Premium
+$git clone https://github.com/MuhamadZalim97/Dark-FB-Premium
 
 $cd Dark-FB-Premium
 
