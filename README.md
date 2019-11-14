@@ -12,8 +12,8 @@ $pip2 install mechanize
 
 $git clone https://github.com/MuhamadZalim97/Dark-FB-Premium
 
-$chmod +x dark.py
-
 $cd Dark-FB-Premium
+
+$chmod +x dark.py
 
 $python2 dark.py
